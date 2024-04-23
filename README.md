@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @alex404hm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-alex404hm/alex404hm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 **Hello World! I’m Alexander...**
+---------------------------------------------------
+- 👀 I’m interested in **Development**
+- 🌱 I’m currently learning: **React, Fullstack Development + Cyber Security**
+- 📫 How to reach me **alex404hm@alexander-holm.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Im a Nerd**
