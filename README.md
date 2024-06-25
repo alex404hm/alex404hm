@@ -1,7 +1,7 @@
 # 👋 Hello World! I’m Alexander...
 
 ![Profile Picture]
-([(https://github.com/alex404hm/alex404hm/blob/main/logo.png)
+([(https://github.com/alex404hm/alex404hm/blob/main/logo.png])
 ## About Me
 
 Hi there! I'm Alexander, a passionate developer based in [Your City, Your Country]. Here's a bit about me:
