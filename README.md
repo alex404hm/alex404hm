@@ -1,6 +1,6 @@
 # 👋 Hello World! I’m Alexander...
 
-![Profile Picture] (logo.png)
+![Profile Picture](logo.png)
 ## About Me
 
 Hi there! I'm Alexander, a passionate developer based in [Your City, Your Country]. Here's a bit about me:
