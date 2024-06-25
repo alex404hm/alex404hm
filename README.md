@@ -1,6 +1,7 @@
 # 👋 Hello World! I’m Alexander...
 
-![Profile Picture]([(https://avatars.githubusercontent.com/u/163738985?v=4)
+![Profile Picture]
+([(https://avatars.githubusercontent.com/u/163738985?v=4)
 ## About Me
 
 Hi there! I'm Alexander, a passionate developer based in [Your City, Your Country]. Here's a bit about me:
