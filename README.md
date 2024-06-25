@@ -2,6 +2,7 @@
 
 ![Profile Picture]
 ([(logo.png])
+![Example Image](logo.png)
 ## About Me
 
 Hi there! I'm Alexander, a passionate developer based in [Your City, Your Country]. Here's a bit about me:
