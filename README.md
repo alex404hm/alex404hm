@@ -1,51 +1,21 @@
-# 👋 Hello World! I’m Alexander...
+# Hi, I'm Alexander Holm Mortensen 👋
 
-![Profile Picture](163738985.jpeg)
-## About Me
+🚀 **Passionate Developer & Cybersecurity Enthusiast**  
+I love building modern web applications, working on security tools, and exploring advanced programming concepts. I’m always looking for new challenges, whether it’s creating a robust dictionary UI, improving document scanning solutions, or diving deep into cybersecurity.
 
-Hi there! I'm Alexander, a passionate developer based in [Your City, Your Country]. Here's a bit about me:
+## 🔭 Current Projects
+- **[Ordbog UI](https://github.com/alexanderholm/ordbog-ui)** - A sleek and modern Danish dictionary UI with features like voice search, autocomplete, and dark mode.
+- **Mobile Contract Scanner** - A document scanning app with AI-driven analysis for contract validation and legal insights.
+- **Site Scanner** - A security tool to check whether websites are scams using API integrations and data-driven insights.
 
-- 👀 I’m interested in **Development**, particularly in web development and cybersecurity.
-- 🌱 I’m currently learning: React, Fullstack Development, and improving my skills in Cyber Security.
-- 📫 How to reach me: [alex404hm@alexander-holm.com]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a proud nerd and enjoy exploring new technologies!
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## Skills and Technologies
-
-Here are some of the technologies and tools I work with:
-
-- Frontend Development: HTML, CSS, JavaScript, React
-- Backend Development: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Version Control: Git, GitHub
-- Cyber Security: OWASP Top 10, Penetration Testing
-- Tools: Visual Studio Code, Postman, Docker
-
----
-
-## Projects
-
-### Project 1: [Portfolio Template](https://github.com/alex404hm/new-portfolio)
-
-### Project 2: [FiveM Server Template](https://github.com/alex404hm/main)
-
----
-
-## Fun Fact
-
-Did you know? Nerds make the best developers! 😉
-
----
-
-## Let's Connect!
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech and development.
-
-- Email: (alex404hm@alexander-holm.com)
-- LinkedIn: [Alexander Holm](https://www.linkedin.com/in/alex404hm)
-- Twitter: [@alexander_dev](https://twitter.com/alex404hm)
-
-Looking forward to connecting with you!
+## 🌱 Currently Learning
+- **Bash/Shell Scripting**: Automating tasks and enhancing workflows.
+- **Advanced C Programming**: Exploring lower-level programming for building robust systems and tools.
+- **Cybersecurity Techniques**: From web 
