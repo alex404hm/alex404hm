@@ -1,46 +1,49 @@
 # Hi, I'm Alexander Holm Mortensen 👋
 
-🚀 **Passionate Developer & Cybersecurity Enthusiast**  
-I love building modern web applications, working on security tools, and exploring advanced programming concepts. I’m always looking for new challenges, whether it’s creating a robust dictionary UI, improving document scanning solutions, or diving deep into cybersecurity.
+I’m a passionate **developer** and **cybersecurity enthusiast**, always exploring ways to build secure, scalable, and efficient systems. My projects focus on improving user experience, enhancing security, and pushing boundaries in tech development.
 
-## 🔭 Current Projects
-- **[Ordbog UI](https://github.com/alexanderholm/ordbog-ui)** - A sleek and modern Danish dictionary UI with features like voice search, autocomplete, and dark mode.
-- **Mobile Contract Scanner** - A document scanning app with AI-driven analysis for contract validation and legal insights.
-- **Site Scanner** - A security tool to check whether websites are scams using API integrations and data-driven insights.
+---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🔧 Skills & Technologies
 
-## 🌱 Currently Learning
-- **Bash/Shell Scripting**: Automating tasks and enhancing workflows.
-- **Advanced C Programming**: Exploring lower-level programming for building robust systems and tools.
-- **Cybersecurity Techniques**: From web exploitation to antivirus development and secure web applications.
+- **Programming Languages**: JavaScript, Python, Bash, C
+- **Web Development**: Node.js, TailwindCSS, HTML5, CSS3
+- **Cybersecurity**: Web exploitation, penetration testing, secure coding practices
+- **Tools & Platforms**: Git, Docker, Linux, macOS, APIs
 
-## 🚀 What I’m Working On
-- **Farum Arena Cybersecurity Workshop**: Designing beginner-friendly hacking challenges for a LAN event at FalconNXT Games.
-- **Developer Portfolio**: Building a modern portfolio website using TailwindCSS to showcase all my projects.
-- **Login Monitoring Tool**: A macOS program to track login attempts and improve system security.
+---
 
-## 💡 Skills & Expertise
-- **Cybersecurity**: Web exploitation, hacking tournaments, and building secure tools.
-- **Web Development**: Full-stack development with Node.js, TailwindCSS, and modern web frameworks.
-- **AI & OCR Models**: Integrating models like TrOCR and Donut for document analysis.
+## 🚀 Current Projects
 
-## 🎯 Future Goals
-- Contribute to more **open-source projects**.
-- Deepen my knowledge of **Linux** and **system programming**.
-- Work on **large-scale projects** and innovative security tools.
+- **[Ordbog UI](https://github.com/alexanderholm/ordbog-ui)** – A modern Danish dictionary UI with voice search, autocomplete, and dark mode.
+- **Mobile Contract Scanner** – An AI-driven app for scanning and analyzing contracts.
+- **Login Monitoring Tool** – A macOS tool to track and secure login attempts.
 
-## ✨ Portfolio & Contact
-- **Portfolio Website**: Coming Soon!
-- **LinkedIn**: [Alexander Holm Mortensen](https://www.linkedin.com/in/alexander-holm-mortensen/)
+---
+
+## 📚 Learning & Exploration
+
+- **Bash Scripting**: Automating system tasks and improving workflows.
+- **C Programming**: Low-level system programming and security tool development.
+- **Advanced Cybersecurity**: Working on secure web applications and vulnerability testing.
+
+---
+
+## 🎯 Goals
+
+- Continue contributing to **open-source projects**.
+- Build innovative solutions in **cybersecurity** and **AI-driven applications**.
+- Enhance my expertise in **system security** and **large-scale project development**.
+
+---
+
+## 📬 Get in Touch
+
+- **Portfolio**: Coming soon!
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/alexander-holm-mortensen/)
 - **Email**: alexanderholm@example.com
 
 ---
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderholm&show_icons=true&theme=radical)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderholm&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderholm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
