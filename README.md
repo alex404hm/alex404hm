@@ -18,4 +18,29 @@ I love building modern web applications, working on security tools, and explorin
 ## 🌱 Currently Learning
 - **Bash/Shell Scripting**: Automating tasks and enhancing workflows.
 - **Advanced C Programming**: Exploring lower-level programming for building robust systems and tools.
-- **Cybersecurity Techniques**: From web 
+- **Cybersecurity Techniques**: From web exploitation to antivirus development and secure web applications.
+
+## 🚀 What I’m Working On
+- **Farum Arena Cybersecurity Workshop**: Designing beginner-friendly hacking challenges for a LAN event at FalconNXT Games.
+- **Developer Portfolio**: Building a modern portfolio website using TailwindCSS to showcase all my projects.
+- **Login Monitoring Tool**: A macOS program to track login attempts and improve system security.
+
+## 💡 Skills & Expertise
+- **Cybersecurity**: Web exploitation, hacking tournaments, and building secure tools.
+- **Web Development**: Full-stack development with Node.js, TailwindCSS, and modern web frameworks.
+- **AI & OCR Models**: Integrating models like TrOCR and Donut for document analysis.
+
+## 🎯 Future Goals
+- Contribute to more **open-source projects**.
+- Deepen my knowledge of **Linux** and **system programming**.
+- Work on **large-scale projects** and innovative security tools.
+
+## ✨ Portfolio & Contact
+- **Portfolio Website**: Coming Soon!
+- **LinkedIn**: [Alexander Holm Mortensen](https://www.linkedin.com/in/alexander-holm-mortensen/)
+- **Email**: alexanderholm@example.com
+
+---
+
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderholm&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderholm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
