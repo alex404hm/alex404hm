@@ -1,10 +1,10 @@
 <div align="center">
   
-  <a href="https://alexander-holm.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Alexander%20Holm%20Mortensen&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Alexander%20Holm%20Mortensen&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast)](https://alexander-holm.com)
+  <a href="https://alexander-holm.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 
   <p>Building digital experiences from Copenhagen, Denmark</p>
 
@@ -35,11 +35,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex404hm&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="Alex's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex404hm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/alex404hm">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alex404hm&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" alt="Alex's GitHub stats" />
   </a>
 </div>
 
@@ -47,7 +44,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=alex404hm&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex404hm&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -71,9 +68,9 @@
 
 <br/>
 
-<!-- Profile views counter with animation -->
+<!-- Simple profile views counter -->
 <div align="center">
-  <img src="https://komarev.vercel.app/api/view-count/alex404hm?style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alex404hm.alex404hm&left_color=1a1b27&right_color=0A84FF" alt="Profile Views" />
 </div>
 
 <br/>
