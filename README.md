@@ -2,13 +2,15 @@
 
 # Alexander Holm Mortensen
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+<a href="https://alexander-holm.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</a>
 
 <p>Building digital experiences from Copenhagen, Denmark</p>
 
 <div>
   <a href="https://alexander-holm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00A0D1?style=for-the-badge&logoColor=white" alt="website" />
+    <img src="https://img.shields.io/badge/Website-00A0D1?style=for-the-badge&logoColor=white&logo=safari" alt="website" />
   </a>
   <a href="https://alexander-holm.com/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="resume" />
@@ -22,62 +24,24 @@
 
 <br/>
 
-## 💻 Tech Stack
-
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,linux,git,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
 
-## 📊 Stats & Activity
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex404hm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex404hm&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alex404hm&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alex404hm&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alex404hm&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" />
 </div>
 
 <br/>
 
-## 🚀 Projects
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Personal Website</h3>
-        <p align="center">My portfolio website showcasing my work and skills</p>
-        <p align="center">
-          <a href="https://alexander-holm.com" target="_blank">
-            <img src="https://img.shields.io/badge/View_Live-00A0D1?style=for-the-badge" alt="View Live" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project Name</h3>
-        <p align="center">Brief description of your project</p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-00A0D1?style=for-the-badge" alt="View Project" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=alex404hm&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -88,9 +52,29 @@
 <br/>
 
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=alex404hm&color=0969DA&style=flat-square)
-  
-  <sub>Last updated: March 2025</sub>
-  
+  <h2>📂 My Repositories</h2>
+  <a href="https://github.com/alex404hm?tab=repositories">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alex404hm&repo=alex404hm&theme=github_dark&hide_border=true" />
+  </a>
+  <!-- The cards below will automatically display your pinned repositories -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alex404hm&repo=repo1&theme=github_dark&hide_border=true" />
+</div>
+
+<br/>
+
+<!-- Cool wave separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alex404hm&color=0969DA&style=flat-square" alt="Profile views" />
+</div>
+
+<!-- Loading animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" height="25" alt="Wave" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center">
+  <sub>Last updated: 2025-03-28</sub>
 </div>
