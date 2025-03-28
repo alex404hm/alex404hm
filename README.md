@@ -1,7 +1,6 @@
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Alexander%20Holm%20Mortensen&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  
   <a href="https://alexander-holm.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   </a>
@@ -19,7 +18,6 @@
       <img src="https://img.shields.io/badge/GitHub-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
   </div>
-
 </div>
 
 <br/>
