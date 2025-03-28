@@ -66,9 +66,9 @@
 
 <br/>
 
-<!-- Modern Profile Views Counter -->
+<!-- Dynamic Profile Views Counter -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-%E2%9C%94%20Working-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alex404hm.alex404hm&left_color=1a1b27&right_color=0A84FF" alt="Profile Views" />
 </div>
 
 <br/>
