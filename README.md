@@ -7,11 +7,11 @@
 <p><em>A passionate software developer from Copenhagen, Denmark</em></p>
 
 <p>
-  <a href="https://linkedin.com/in/alexanderholmmortensen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://alexander-holm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00A0D1?style=for-the-badge&logoColor=white" alt="website" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="https://alexander-holm.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="resume" />
   </a>
   <a href="https://github.com/alex404hm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -69,10 +69,22 @@
 ## 💻 Projects
 
 <div align="center">
-  <a href="https://github.com/alex404hm/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alex404hm&repo=alex404hm&theme=tokyonight" />
-  </a>
-  <!-- Add more projects as you create them -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <div style="width: 45%; min-width: 250px; background-color: #1a1b27; padding: 15px; border-radius: 6px; border: 1px solid #2d2e3a;">
+      <h3>Personal Website</h3>
+      <p>My portfolio website showcasing my work and skills</p>
+      <a href="https://alexander-holm.com" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-00A0D1?style=for-the-badge" alt="View Project" />
+      </a>
+    </div>
+    <div style="width: 45%; min-width: 250px; background-color: #1a1b27; padding: 15px; border-radius: 6px; border: 1px solid #2d2e3a;">
+      <h3>Project 2</h3>
+      <p>Description of your second project</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-00A0D1?style=for-the-badge" alt="View Project" />
+      </a>
+    </div>
+  </div>
 </div>
 
 ## 📈 Activity Graph
@@ -82,13 +94,6 @@
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alex404hm&theme=tokyo-night" />
   </a>
 </div>
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on improving my programming skills
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about Python, web development, or anything tech-related
-- ⚡ Fun fact: I enjoy exploring new technologies and solving complex problems
 
 <div align="center">
   
