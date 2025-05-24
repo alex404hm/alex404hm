@@ -1,81 +1,46 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Alexander%20Holm%20Mortensen&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <a href="https://alexander-holm.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+<!-- Profile README for Alexander Holm Mortensen -->
 
-  <p>Building digital experiences from Copenhagen, Denmark</p>
+<!-- Animated name with SVG waves -->
+<h1 align="center">
+  Hi, I'm Alexander Holm Mortensen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
 
-  <div>
-    <a href="https://alexander-holm.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logoColor=white&logo=safari" alt="website" />
-    </a>
-    <a href="https://alexander-holm.com/resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-0A84FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="resume" />
-    </a>
-    <a href="https://github.com/alex404hm" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A1A1A&center=true&vCenter=true&width=520&lines=Python+Enthusiast;Web+Tinkerer;Always+Learning" alt="Typing SVG" />
+</p>
 
-<br/>
+---
 
-<h2 align="center">💻 Technologies & Tools</h2>
+<!-- Animated Skills Section -->
+<h2 align="center">🛠️ Skills & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css" height="48" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,linux,git,vscode&theme=dark" alt="Tech Stack" />
-</div>
+---
 
-<br/>
+<!-- Animated GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex404hm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex404hm&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex404hm&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+---
 
-<div align="center">
-  <a href="https://github.com/alex404hm">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alex404hm&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" alt="Alex's GitHub stats" />
-  </a>
-</div>
+<!-- Animated Contribution Graph -->
+<h2 align="center">🔥 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex404hm&theme=tokyo-night&hide_border=true" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex404hm&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex404hm&bg_color=1a1b27&color=0A84FF&line=628FDA&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">📌 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/alex404hm?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-0A84FF?style=for-the-badge" alt="View All Projects" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Dynamic Profile Views Counter -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alex404hm.alex404hm&left_color=1a1b27&right_color=0A84FF" alt="Profile Views" />
-</div>
-
-<br/>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
-  <sub>Last updated: 2025-03-28</sub>
-</div>
+<!-- Footer with animated waving hand emoji -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60"/>
+</p>
+<p align="center">
+  <em>Let's build something awesome together!</em>
+</p>
