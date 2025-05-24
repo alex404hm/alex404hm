@@ -1,46 +1,103 @@
-<!-- Profile README for Alexander Holm Mortensen -->
+<div align="center">
+  
+# 🚀 Alexander Holm Mortensen
 
-<!-- Animated name with SVG waves -->
-<h1 align="center">
-  Hi, I'm Alexander Holm Mortensen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Developer;Web+Enthusiast;Always+Learning;Building+Cool+Stuff!" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A1A1A&center=true&vCenter=true&width=520&lines=Python+Enthusiast;Web+Tinkerer;Always+Learning" alt="Typing SVG" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=alex404hm&color=58a6ff&style=for-the-badge)](https://github.com/alex404hm)
 
----
-
-<!-- Animated Skills Section -->
-<h2 align="center">🛠️ Skills & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css" height="48" />
-</p>
+</div>
 
 ---
 
-<!-- Animated GitHub Stats -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex404hm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex404hm&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex404hm&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+
+</div>
 
 ---
 
-<!-- Animated Contribution Graph -->
-<h2 align="center">🔥 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex404hm&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex404hm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex404hm&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alex404hm&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<!-- Footer with animated waving hand emoji -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60"/>
-</p>
-<p align="center">
-  <em>Let's build something awesome together!</em>
-</p>
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alex404hm&theme=discord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/alex404hm)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex404hm/alex404hm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alex404hm/alex404hm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alex404hm/alex404hm/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 About Me
+
+```python
+class Alexander:
+    def __init__(self):
+        self.name = "Alexander Holm Mortensen"
+        self.skills = ["Python", "HTML", "CSS"]
+        self.status = "Always learning 📚"
+        self.current_focus = "Building awesome projects"
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
+
+me = Alexander()
+me.say_hi()
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity Graph
+
+[![Alexander's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alex404hm&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/alex404hm)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Let's Connect and Build Something Amazing!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
+
+</div>
