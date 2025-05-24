@@ -51,20 +51,7 @@
 
 ## 💫 About Me
 
-```python
-class Alexander:
-    def __init__(self):
-        self.name = "Alexander Holm Mortensen"
-        self.skills = ["Python", "HTML", "CSS"]
-        self.status = "Always learning 📚"
-        self.current_focus = "Building awesome projects"
-        
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
-
-me = Alexander()
-me.say_hi()
-```
+Hi! I'm Alexander Holm Mortensen, a passionate developer who loves working with Python, HTML, and CSS. I'm always learning new technologies and building awesome projects. Thanks for visiting my profile - let's connect and build something amazing together!
 
 </div>
 
