@@ -6,6 +6,18 @@ I build clean, reliable software that turns complex problems into simple solutio
 
 ---
 
+<p>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/English-111111?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
+
+  <a href="./README-da.md">
+    <img src="https://img.shields.io/badge/Dansk-0ea5e9?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## ✨ About Me
 
 I'm a software developer focused on creating well-structured and maintainable systems.  
@@ -22,20 +34,18 @@ I enjoy working where clarity, performance, and design matter.
 
 ---
 
-## 🌐 Connect
+## 🌐 Links
 
-<p>
-  <a href="https://alexander-holm.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
+<a href="https://alexander-holm.com">
+  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/alex404hm" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/alex404hm">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:almo30@elev.tec.dk" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:almo30@elev.tec.dk">
+  <img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
