@@ -25,15 +25,15 @@ I enjoy working where clarity, performance, and design matter.
 ## 🌐 Connect
 
 <p>
-  <a href="https://alexander-holm.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="https://alexander-holm.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/alex404hm">
+  <a href="https://www.linkedin.com/in/alex404hm" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:almo30@elev.tec.dk">
+  <a href="mailto:almo30@elev.tec.dk" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
