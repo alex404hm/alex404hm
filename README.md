@@ -6,22 +6,27 @@ I build clean, reliable software that turns complex problems into simple solutio
 
 ---
 
-<p>
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/English-111111?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-  </a>
+## 🌐 Language
 
-  <a href="./README-da.md">
-    <img src="https://img.shields.io/badge/Dansk-0ea5e9?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-  </a>
-</p>
+<details>
+<summary>🇬🇧 English</summary>
 
----
-
-## ✨ About Me
+### ✨ About Me
 
 I'm a software developer focused on creating well-structured and maintainable systems.  
 I enjoy working where clarity, performance, and design matter.
+
+</details>
+
+<details>
+<summary>🇩🇰 Dansk</summary>
+
+### ✨ Om Mig
+
+Jeg er softwareudvikler med fokus på velstrukturerede og vedligeholdelsesvenlige systemer.  
+Jeg arbejder bedst med løsninger hvor klarhed, performance og design er vigtigt.
+
+</details>
 
 ---
 
