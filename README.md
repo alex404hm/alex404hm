@@ -24,8 +24,16 @@ I enjoy working on problems where clarity, performance, and good design matter.
 
 ## 🌐 Links
 
-🌍 Website → https://alexander-holm.com  
-💼 LinkedIn → in/alex404hm  
-📫 Email → almo30@elev.tec.dk
+<a href="https://alexander-holm.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Website-Visit-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alex404hm" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:almo30@elev.tec.dk">
+  <img src="https://img.shields.io/badge/📫%20Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
