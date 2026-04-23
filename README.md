@@ -6,27 +6,41 @@ I build clean, reliable software that turns complex problems into simple solutio
 
 ---
 
-## 🌐 Language
+## 🌐 Language Toggle
 
-<details>
-<summary>🇬🇧 English</summary>
+<label for="lang-toggle" style="cursor:pointer;">
+  <img src="https://img.shields.io/badge/Toggle%20Language-0ea5e9?style=for-the-badge"/>
+</label>
 
-### ✨ About Me
+<input type="checkbox" id="lang-toggle" style="display:none;">
+
+<div id="english">
+  
+### 🇬🇧 English
 
 I'm a software developer focused on creating well-structured and maintainable systems.  
 I enjoy working where clarity, performance, and design matter.
 
-</details>
+</div>
 
-<details>
-<summary>🇩🇰 Dansk</summary>
+<div id="danish">
 
-### ✨ Om Mig
+### 🇩🇰 Dansk
 
 Jeg er softwareudvikler med fokus på velstrukturerede og vedligeholdelsesvenlige systemer.  
 Jeg arbejder bedst med løsninger hvor klarhed, performance og design er vigtigt.
 
-</details>
+</div>
+
+<style>
+#lang-toggle:checked ~ #english {
+  display: none;
+}
+
+#lang-toggle:not(:checked) ~ #danish {
+  display: none;
+}
+</style>
 
 ---
 
